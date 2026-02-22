@@ -1,17 +1,32 @@
-## Hi there 👋
+## Hi there 👋, I’m Soumeya.
 
-<!--
-**Soumeya0/Soumeya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Frontend-Focused Developer | Growing into Full-Stack  
 
-Here are some ideas to get you started:
+I build modern, responsive web applications and continuously work on strengthening my programming foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 What I’m Working On
+- Building frontend projects using HTML, CSS, and JavaScript  
+- Expanding into backend development  
+- Strengthening my skills in Java and C/C++  
+
+---
+
+### 🚀 My Focus
+- Writing clean, structured code  
+- Improving problem-solving skills  
+- Building projects that reflect real-world development practices  
+
+---
+
+### 🌱 Currently Learning
+- Backend fundamentals  
+- System-level concepts with C/C++  
+- Full-stack development principles  
+
+---
+
+📫 Open to internships, collaborations, and connecting with developers and recruiters.
  
