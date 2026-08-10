@@ -32,7 +32,7 @@ Mission:   Strengthening programming foundations
 
 <div align="center">
 
-<a href="(https://www.linkedin.com/in/soumeya-mohamed-ahmed-2aa940269/)" target="_blank">
+<a href="https://www.linkedin.com/in/soumeya-mohamed-ahmed-2aa940269/">
 <img src="https://img.shields.io/badge/LinkedIn-ff2fa0?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:Soumeya6Ahmed@gmail.com">
