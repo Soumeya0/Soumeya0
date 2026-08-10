@@ -17,9 +17,9 @@
 <td>
 
 ```yaml
-Player:    Soumeya
+Player:    Soumeya Mohamed Ahmed
 Class:     Frontend Developer
-Level:     03 (UI/UX still loading...)
+Level:     02
 Status:    🎓 Computer Engineering Student
 Quest:     Building modern, responsive web apps
 Mission:   Strengthening programming foundations
@@ -42,7 +42,7 @@ Mission:   Strengthening programming foundations
 </div>
 
 <p align="center">
-🟢 <b>Open to internships, collaborations, and connecting with developers and recruiters.</b>
+<b>Open to internships, collaborations, and connecting with developers and recruiters.</b>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff88,50:ff2fa0,100:1a1a2e&height=120&section=footer" />
