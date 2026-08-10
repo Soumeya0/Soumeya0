@@ -29,20 +29,4 @@ Mission:   Strengthening programming foundations
 </tr>
 </table>
 
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/soumeya-mohamed-ahmed-2aa940269/">
-<img src="https://img.shields.io/badge/LinkedIn-ff2fa0?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:Soumeya6Ahmed@gmail.com">
-<img src="https://img.shields.io/badge/Email-39ff88?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
-
-</div>
-
-<p align="center">
-<b>Open to internships, collaborations, and connecting with developers and recruiters.</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff88,50:ff2fa0,100:1a1a2e&height=120&section=footer" />
+<div align="center"> <a href="https://www.linkedin.com/in/soumeya-mohamed-ahmed-2aa940269/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-ff2fa0?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:Soumeya6Ahmed@gmail.com"> <img src="https://img.shields.io/badge/Email-39ff88?style=for-the-badge&logo=gmail&logoColor=black" /> </a> </div> <p align="center"> 🟢 <b>Open to internships, collaborations, and connecting with developers and recruiters.</b> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff88,50:ff2fa0,100:1a1a2e&height=120&section=footer" />
