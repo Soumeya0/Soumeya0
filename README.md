@@ -21,14 +21,7 @@
 
 <br><br>
 
-> ⬛ **PROFILE**
-> ⬛ Skill Tree
-> ⬛ Quests
-> ⬛ Guild
-
 <br>
-
-📍 Ottawa, ON
 🎓 BASc Computer Engineering, uOttawa — 2029
 
 </td>
@@ -105,20 +98,20 @@
 ### `COMPLETED DUNGEONS`
 <sub>QUEST LOG</sub>
 
-**⭐ Algorithm Visualizer** &nbsp;<sub>`DIFFICULTY: A` · Jan 2026 – Present</sub>
+**Algorithm Visualizer** &nbsp;<sub>`DIFFICULTY: A` · Jan 2026 – Present</sub>
 Spring Boot REST API that visualizes Bubble/Merge/Quick Sort step-by-step, plus a stateful BST/AVL/Heap service. JWT + BCrypt auth, deployed on Railway + Netlify.
 `JAVA` `SPRING BOOT` `POSTGRESQL` `JWT`
 [Live](https://6a7772b8eeb48f98f922cc38--algorithm-vism.netlify.app/) · [Repo](https://github.com/Soumeya0/algorithm-visualizer)
 
 ---
 
-**⭐ Memora — iOS Memory Journal** &nbsp;<sub>`DIFFICULTY: A` · Jun 2026 – Present</sub>
+**Memora — iOS Memory Journal** &nbsp;<sub>`DIFFICULTY: A` · Jun 2026 – Present</sub>
 Native iOS app with SwiftData local persistence, reactive Firebase Auth, and a reusable SwiftUI animation/theming system. Extending to Firestore cloud sync.
 `SWIFTUI` `SWIFTDATA` `FIREBASE`
 
 ---
 
-**⭐ Her Ground Website** &nbsp;<sub>`DIFFICULTY: B` · Sept 2025 – Present</sub>
+**Her Ground Website** &nbsp;<sub>`DIFFICULTY: B` · Sept 2025 – Present</sub>
 Client-side event calendar with custom date logic, async Fetch API forms with loading/error states, and scroll-triggered animations — no external libraries.
 `HTML` `CSS` `JAVASCRIPT`
 [Live](https://6a77773503f22221fa8f75e8--herground.netlify.app/) · [Repo](https://github.com/Soumeya0/HerGroundwebsite)
@@ -153,19 +146,6 @@ Client-side event calendar with custom date logic, async Fetch API forms with lo
 <img src="https://img.shields.io/badge/Bilingual_Certificate_EN%2FFR-ffb4ab?style=for-the-badge&labelColor=19101c" />
 <br>
 <img src="https://img.shields.io/badge/Hackathon_2026-Built_a_C_prototype_under_time_pressure-bd00ff?style=for-the-badge&labelColor=19101c" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:19101c,50:bd00ff,100:19101c&height=2&width=1000" />
-
-<div align="center">
-
-### 📡 SYSTEM LOG — GUILD STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=Soumeya0&show_icons=true&hide_border=true&bg_color=19101c&title_color=ecb2ff&icon_color=bd00ff&text_color=eeddee&ring_color=bd00ff" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Soumeya0&hide_border=true&background=19101c&stroke=bd00ff&ring=ecb2ff&fire=ecb2ff&currStreakLabel=ecb2ff&sideLabels=eeddee&dates=d4c0d7" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumeya0&layout=compact&hide_border=true&bg_color=19101c&title_color=ecb2ff&text_color=eeddee" width="60%" />
 
 </div>
 
