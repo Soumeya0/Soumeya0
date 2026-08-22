@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:19101c,50:bd00ff,100:19101c&height=200&section=header&text=SHADOW_SYSTEM_V1.0&fontSize=42&fontColor=ECB2FF&animation=twinkling&fontAlignY=38&desc=Frontend%20Hunter%20%7C%20Leveling%20Up%20to%20Full-Stack&descAlignY=58&descSize=16&descColor=E0B6FF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=ECB2FF&background=19101C00&center=true&vCenter=true&width=700&lines=PLAYER%3A+SOUMEYA+MOHAMED+AHMED;CLASS%3A+COMPUTER+ENGINEERING+STUDENT;RANK%3A+B+HUNTER+%7C+FRONTEND-FOCUSED;STATUS%3A+AWAKENING+FULL-STACK" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=ECB2FF&background=19101C00&center=true&vCenter=true&width=700&lines=PLAYER%3A+SOUMEYA+MOHAMED+AHMED;CLASS%3A+COMPUTER+ENGINEERING+STUDENT;RANK%3A+B+HUNTER+%7C+FRONTEND-FOCUSED;STATUS%3A+FULL-STACK" alt="Typing SVG" />
 
 </div>
 
